@@ -30,12 +30,6 @@ li {
     float: left;
     border-right: 1px solid black;
 }
-    
-a {
-    display: block;
-    padding: 20px;
-    background-color: #ffffff;
-}
 
 header {
     padding: 17px; 
@@ -70,7 +64,7 @@ li {
     border-right: 1px solid black;
 }
     
-a {
+.pageLinks {
     display: block;
     padding: 20px;
     background-color: #ffffff;
@@ -88,6 +82,11 @@ a {
     background-color: #ffffff;
     font-size: 16px;
     resize: none;
+}
+
+.icon {
+    margin: 5px;
+    float: left;
 }
 
 /* media quiries */

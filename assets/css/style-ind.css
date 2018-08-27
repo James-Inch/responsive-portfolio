@@ -98,13 +98,16 @@ li {
     border-right: 1px solid black;
 }
     
-a {
+.pageLinks {
     display: block;
     padding: 20px;
-   
     background-color: #ffffff;
 }
 
+.icon {
+    margin: 5px;
+    float: left;
+}
 /* media quiries */
 
 @media screen and (max-width: 980px){ .wrapper {
