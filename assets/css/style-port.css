@@ -146,28 +146,9 @@ li {
     font-weight: bold;
 }
 
-.img1{
+.img{
     position: relative;
-}
-
-.img2{
-    position: relative;
-}
-
-.img3{
-    position: relative;
-}
-
-.img4{
-    position: relative;
-}
-
-.img5{
-    position: relative;
-}
-
-.img6{
-    position: relative;
+    margin: 10px;
 }
 
 .centered {
