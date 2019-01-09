@@ -1,8 +1,3 @@
-.wrapper {
-    width: 900px;
-    margin: 0 auto;
-}
-
 .content {
     width: 900px;
 }
@@ -15,43 +10,6 @@
     content: "";
     clear: both;
     display: table;
-}
-
-.camping {
-    float: left;
-}
-
-header {
-    padding: 17px; 
-    background: #4aaaa5;
-    width: 180px;
-    text-align: center;
-    float: left;
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    color: #ffffff;
-    border-bottom: solid 1px;
-    border-bottom-color: #cccccc; 
-    line-height: 150%;
-    font-size: 24px;
-    font-weight: bold;
-}
-nav {
-    background: #ffffff;
-    height: 70px;
-    width: 100%;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    float: right;   
-}
-    
-.pageLinks {
-    display: block;
-    padding: 20px;
-    background-color: #ffffff;
 }
 
 .banner {
@@ -66,12 +24,6 @@ ul {
     font-weight: bold;
 }
 
-.banner camping {
-    position: relative;
-    left: 0;
-    bottom: 0;
-}
-
 .wrapper {
     width: 900px;
     margin: 0 auto;
@@ -89,32 +41,6 @@ ul {
     content: "";
     clear: both;
     display: table;
-}
-
-
-header {
-    padding: 17px; 
-    background: #4aaaa5;
-    width: 180px;
-    text-align: center;
-    float: left;
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    color: #ffffff;
-    border-bottom: solid 1px;
-    border-bottom-color: #cccccc; 
-    line-height: 150%;
-    font-size: 24px;
-    font-weight: bold;
-}
-nav {
-    background: #ffffff;
-    height: 70px;
-    width: 100%;
-}
-    
-.icon {
-    margin: 5px;
-    float: left;
 }
 
 .banner {
