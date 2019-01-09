@@ -48,11 +48,6 @@ ul {
     float: right;   
 }
     
-li {
-    float: left;
-    border-right: 1px solid black;
-}
-    
 .pageLinks {
     display: block;
     padding: 20px;
@@ -115,18 +110,6 @@ nav {
     background: #ffffff;
     height: 70px;
     width: 100%;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    float: right;   
-}
-    
-li {
-    float: left;
-    border-right: 1px solid black;
 }
     
 .icon {

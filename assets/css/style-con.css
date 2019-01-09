@@ -25,11 +25,6 @@ ul {
     padding: 0;
     float: right;   
 }
-    
-li {
-    float: left;
-    border-right: 1px solid black;
-}
 
 header {
     padding: 17px; 
@@ -61,7 +56,6 @@ ul {
     
 li {
     float: left;
-    border-right: 1px solid black;
 }
     
 .pageLinks {
